@@ -1,0 +1,496 @@
+{
+  "project_info": {
+    "project_number": "318456524749",
+    "firebase_url": "https://hearts-36da3-default-rtdb.firebaseio.com",
+    "project_id": "hearts-36da3",
+    "storage_bucket": "hearts-36da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:71b6ab17eacf736aeb5e84",
+        "android_client_info": {
+          "package_name": "com.cabme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:c97c164a6f243b4beb5e84",
+        "android_client_info": {
+          "package_name": "com.emart.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:cada01044463ffa4eb5e84",
+        "android_client_info": {
+          "package_name": "com.emart.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:385b12f12c63ab19eb5e84",
+        "android_client_info": {
+          "package_name": "com.example.hcp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:d7187d244805bfe3eb5e84",
+        "android_client_info": {
+          "package_name": "com.example.hearts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-orv4ks0astp1g11bfa9t3fdvkr2hrtii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hearts",
+            "certificate_hash": "a14b14acd5b8227a0d7b865907f91cb633ab54e0"
+          }
+        },
+        {
+          "client_id": "318456524749-su82gsm7pimh92snl2daqjdnssgc63ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hearts",
+            "certificate_hash": "3aef8b3a02575f555521a2de9fddc1a0d348cd76"
+          }
+        },
+        {
+          "client_id": "318456524749-v645egbfe19q82odg2ruvju1qo5nilbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hearts",
+            "certificate_hash": "5857af7a32b645af4e5e34b5211064640e4f7d12"
+          }
+        },
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:149cc187e0adcfc1eb5e84",
+        "android_client_info": {
+          "package_name": "com.example.hearts_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-h7p0i6ie86n7da4m39mfhh4vi1ungpib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hearts_driver",
+            "certificate_hash": "a2bedb162a1c13203162ea27e5b5a881392402ee"
+          }
+        },
+        {
+          "client_id": "318456524749-sckttg2tpi0meo4daefckr290u0q7r2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hearts_driver",
+            "certificate_hash": "5857af7a32b645af4e5e34b5211064640e4f7d12"
+          }
+        },
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:280ef4fa00fc25d9eb5e84",
+        "android_client_info": {
+          "package_name": "com.example.hearts_hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:254852152be1036aeb5e84",
+        "android_client_info": {
+          "package_name": "com.n4pcc.hearts_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-6bf0evg8ia0m3f9udvenpa2r6a2tkna6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n4pcc.hearts_driver",
+            "certificate_hash": "5857af7a32b645af4e5e34b5211064640e4f7d12"
+          }
+        },
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:a70b60d48f267485eb5e84",
+        "android_client_info": {
+          "package_name": "com.n4pcc.mighty_ben"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-hbjuq2dt4ptrhhnv2f6sb4sic4kaq5ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n4pcc.mighty_ben",
+            "certificate_hash": "5857af7a32b645af4e5e34b5211064640e4f7d12"
+          }
+        },
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:ad00b025cb5a4f17eb5e84",
+        "android_client_info": {
+          "package_name": "et.heartsorg.hearts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318456524749:android:648f3df8d97c2121eb5e84",
+        "android_client_info": {
+          "package_name": "et.heartsorg.heartsdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1ymEbZdBGgsWCLfMFUgcaFGZbKKY-vE"
+        },
+        {
+          "current_key": "AIzaSyB0mM2GzFzyEynGun8ez0IKFvrStuYjOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318456524749-n8f74hbbije08k9j9tiddo2ffpv1v6b6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318456524749-27vsfnpthlbj58ubo8ltb70dkabste0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heartsHospital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
